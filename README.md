@@ -34,20 +34,3 @@ pesquisa-binaria/
 
 ### 📜 Licença  
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir!  
-
----
-
-Para adicionar o `README.md` ao seu repositório:  
-
-1. **Crie o arquivo na pasta do projeto:**  
-   ```sh
-   echo "# Pesquisa Binária" > README.md
-   ```  
-   Ou crie manualmente no editor de código.
-
-2. **Adicione ao Git:**  
-   ```sh
-   git add README.md
-   git commit -m "Adicionando README"
-   git push origin main
-   ```
