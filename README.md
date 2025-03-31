@@ -13,7 +13,7 @@ O algoritmo divide a lista ao meio repetidamente até encontrar o número deseja
 ### 📂 Estrutura do projeto  
 ```
 pesquisa-binaria/
-│-- pesquisa_binaria.py  # Implementação da pesquisa binária
+│-- Pesquisa Binaria.py  # Implementação da pesquisa binária
 │-- Guessing Game.py       # Jogo de adivinhação baseado em pesquisa binária
 │-- README.md            # Documentação do projeto
 ```
